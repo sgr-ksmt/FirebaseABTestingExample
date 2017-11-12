@@ -1,0 +1,6 @@
+framework module Lobster {
+  umbrella header "Lobster-umbrella.h"
+
+  export *
+  module * { export * }
+}
