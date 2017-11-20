@@ -6,4 +6,7 @@ use_frameworks!
 target 'FirebaseABTestingExample' do
   pod 'Firebase/RemoteConfig'
   pod 'Lobster'
+  pod 'Instantiate'
+  pod 'InstantiateStandard'
+  pod 'Kingfisher'
 end
